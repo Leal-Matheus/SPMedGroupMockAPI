@@ -1,0 +1,413 @@
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.exe
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.deps.json
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.runtimeconfig.json
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.runtimeconfig.dev.json
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\ref\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.pdb
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.AssemblyReference.cache
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.AssemblyInfoInputs.cache
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.AssemblyInfo.cs
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.CoreCompileInputs.cache
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\staticwebassets\Senai.SPMedicalGroup.webApi.StaticWebAssets.Manifest.cache
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\staticwebassets\Senai.SPMedicalGroup.webApi.StaticWebAssets.xml
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\scopedcss\bundle\Senai.SPMedicalGroup.webApi.styles.css
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.CopyComplete
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\ref\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.pdb
+C:\Users\theus\source\repos\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.genruntimeconfig.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.AssemblyReference.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.AssemblyInfoInputs.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.AssemblyInfo.cs
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.CoreCompileInputs.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\ref\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.exe
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.deps.json
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.runtimeconfig.json
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.runtimeconfig.dev.json
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\ref\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.AssemblyReference.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.AssemblyInfoInputs.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.AssemblyInfo.cs
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.CoreCompileInputs.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\staticwebassets\Senai.SPMedicalGroup.webApi.StaticWebAssets.Manifest.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\staticwebassets\Senai.SPMedicalGroup.webApi.StaticWebAssets.xml
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\scopedcss\bundle\Senai.SPMedicalGroup.webApi.styles.css
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.CopyComplete
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\ref\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup - Copia\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.genruntimeconfig.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.exe
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.deps.json
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.runtimeconfig.json
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.runtimeconfig.dev.json
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\ref\Senai.SPMedicalGroup.webApi.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\staticwebassets\Senai.SPMedicalGroup.webApi.StaticWebAssets.Manifest.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\staticwebassets\Senai.SPMedicalGroup.webApi.StaticWebAssets.xml
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\scopedcss\bundle\Senai.SPMedicalGroup.webApi.styles.css
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.CopyComplete
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.genruntimeconfig.cache
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.exe
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.deps.json
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.runtimeconfig.json
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.runtimeconfig.dev.json
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\ref\Senai.SPMedicalGroup.webApi.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.pdb
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.AssemblyReference.cache
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.AssemblyInfoInputs.cache
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.AssemblyInfo.cs
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.CoreCompileInputs.cache
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\staticwebassets\Senai.SPMedicalGroup.webApi.StaticWebAssets.Manifest.cache
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\staticwebassets\Senai.SPMedicalGroup.webApi.StaticWebAssets.xml
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\scopedcss\bundle\Senai.SPMedicalGroup.webApi.styles.css
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.CopyComplete
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\ref\Senai.SPMedicalGroup.webApi.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.pdb
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.genruntimeconfig.cache
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\47026404881\Documents\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\theus\OneDrive\Documentos\SPMedicalGroup\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.exe
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.deps.json
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.runtimeconfig.json
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.runtimeconfig.dev.json
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\ref\Senai.SPMedicalGroup.webApi.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Senai.SPMedicalGroup.webApi.pdb
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.AssemblyReference.cache
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.AssemblyInfoInputs.cache
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.AssemblyInfo.cs
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.CoreCompileInputs.cache
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\staticwebassets\Senai.SPMedicalGroup.webApi.StaticWebAssets.Manifest.cache
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\staticwebassets\Senai.SPMedicalGroup.webApi.StaticWebAssets.xml
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\scopedcss\bundle\Senai.SPMedicalGroup.webApi.styles.css
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.csproj.CopyComplete
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\ref\Senai.SPMedicalGroup.webApi.dll
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.pdb
+C:\Users\47026404881.INFOSCS\Documents\SPMedicalGroup-MockAPI\BackEnd\Senai.SPMedicalGroup.webApi\Senai.SPMedicalGroup.webApi\obj\Debug\net5.0\Senai.SPMedicalGroup.webApi.genruntimeconfig.cache
