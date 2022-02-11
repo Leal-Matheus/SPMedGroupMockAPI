@@ -32,8 +32,9 @@ export default function Administrador(){
 
         .then(resposta => {
             if(resposta.status === 200){
-                console.log(resposta)
+
                 setListaConsultas(resposta.data)
+                console.log(listaConsultas)
             }
         })
         .catch(erro => console.log(erro))
@@ -85,7 +86,8 @@ export default function Administrador(){
 
         setIsLoading(true)
         //axios.post('http://192.168.3.106:5000/api/Consultas', {
-        axios.post("http://192.168.15.140:5000/api/Consultas/",{
+        //axios.post("http://192.168.15.140:5000/api/Consultas/",{
+        axios.post("https://62055879161670001741b961.mockapi.io/Consulta",{
             IdMedico : idMedico,
             idPaciente : idPaciente,
             dataConsulta : dataCadastro
@@ -135,7 +137,7 @@ export default function Administrador(){
                                                 listaMedicos.map( (event)  => {
                                                     return(
 
-                                                        <option key={event.idMedico} value={event.idMedico} >{event.idUsuarioNavigation.nomeUsuario} </option>
+                                                        <option key={event.idMedico} value={event.idMedico} >{event.Medico[0].nomeMedico} </option>
                                                         )
                                                 })
                                             }                                   
@@ -148,7 +150,7 @@ export default function Administrador(){
 
                                                     return(
 
-                                                        <option key={event.idPaciente} value={event.idPaciente}>{event.idUsuarioNavigation.nomeUsuario}</option>
+                                                        <option key={event.idPaciente} value={event.idPaciente}>{event.Paciente[0].nomePaciente}</option>
                                                         )
                                                 })
                                             }
@@ -181,30 +183,30 @@ export default function Administrador(){
                             </form>
                         </div>
                         {
-                        listaConsultas.map((event) => {
-                            console.log(event)
+                        listaConsultas.map((consulta) => {
+                            console.log(consulta)
                             return (
 
                                 <div className="box_consultas container">
                                     <div className="box_titulo container">
-                                        <span>Consulta: {event.Paciente}</span>
+                                        <span>Consulta: {consulta.Paciente[0].nomePaciente}</span>
                                     </div>
                                     <div>
 
                                         <table className="tabela_lista">
                                             <tbody>
 
-                                                <tr key={event.id} className="organizador_box">
-                                                    <td> Medico: {event.Medico[0].medico}</td>
-                                                    <td> Paciente: {event.Paciente[0].paciente}</td>
+                                                <tr key={consulta.id} className="organizador_box">
+                                                    <td> Medico: {consulta.Medico[0].nomeMedico}</td>
+                                                    <td> Paciente: {consulta.Paciente[0].nomePaciente}</td>
                                                 </tr>
-                                                <tr key={event.id} className="organizador_box2">
-                                                    <td> Descrição:  {event.descricaoConsulta}</td>
+                                                <tr key={consulta.id} className="organizador_box2">
+                                                    <td> Descrição:  {consulta.descricaoConsulta}</td>
                                                     <td> Data:  {Intl.DateTimeFormat("pt-BR", {
                                                         year: 'numeric', month: 'short', day: 'numeric',
                                                         hour:'numeric', minute:'numeric', hour12: false
                                                     }).format
-                                                        (new Date(event.dataConsulta))}</td>
+                                                        (new Date(consulta.dataConsulta))}</td>
                                                 </tr>
                                             </tbody>
                                         </table>

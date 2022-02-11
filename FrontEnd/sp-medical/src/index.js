@@ -57,7 +57,7 @@ const routing = (
     <div>
       <Switch>
         <Route path="/Login" component={Login} />
-        <Route path="/Consultas" component={Administrador} />
+        <PermissaoAdm path="/Consultas" component={Administrador} />
         <PermissaoAdm path="/Mapa" component={Mapa} />
         <PermissaoAdm path="/MapaBrasil" component={mapaBrasil} />
         <PermissaoMedico path="/ConsultasMedico" component={Medico} />
